@@ -183,7 +183,7 @@ header .navbar ul li a:hover{
 .about .row{
     display: flex;
     align-items: center;
-    justify-content: center;
+/*     justify-content: center; */
     flex-wrap: wrap;
     padding:1rem 0;
 }
